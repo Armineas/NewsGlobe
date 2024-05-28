@@ -28,6 +28,9 @@
 }
 
 @media(max-width: 600px) {
+  #showcase .showcase-container {
+    height: 75vh;
+  }
   /* Stack Grid Items */
   #showcase .showcase-container,
   #home-articles .articles-container,
